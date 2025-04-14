@@ -8,10 +8,10 @@
 
 > ### ⌛LEARNING 
 >   - Harvard CS50 , Computer Science University Course  [Link](https://www.youtube.com/watch?v=LfaMVlDaQ24&t=21139s)
->   - React Three Fiber [Link](https://waelyasmina.net/articles/react-three-fiber-for-beginners/)
+>   
 >
 
 > ### ✅COMPLETED
 >   - An Introduction to the World of 3D on The Web [Link](https://waelyasmina.net/articles/an-introduction-to-the-world-of-3d-on-the-web/)
->
+>   - React Three Fiber [Link](https://waelyasmina.net/articles/react-three-fiber-for-beginners/)
 >
