@@ -20,7 +20,7 @@
 ---
 #### Fun Stuffs (Currently) 📚 🎞️ 🎧
  
- - <em> 🎞️ Common People , Black Mirror </em/>
- - <em> 🎧 Mozart </em/>
+ - <em> 🎞️ Common People , Black Mirror </em>
+ - <em> 🎧 Mozart </em>
  - <em> 📚 Sapiens </em>
 
