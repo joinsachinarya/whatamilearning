@@ -8,6 +8,7 @@
 
 > ### ⌛LEARNING 
 >   - Harvard CS50 , Computer Science University Course  [Link](https://www.youtube.com/watch?v=LfaMVlDaQ24&t=21139s)
+>   - React Three Fiber [Link](https://waelyasmina.net/articles/react-three-fiber-for-beginners/)
 >
 
 > ### ✅COMPLETED
