@@ -20,9 +20,9 @@
 
 
 ---
-#### Fun Stuffs (Currently) 📚 🎞️ 🎧
+#### Fun stuffs I liked recently 📚 🎞️ 🎧
  
  - <em> 🎞️ Common People , Black Mirror </em>
  - <em> 🎧 Mozart </em>
- - <em> 📚 Sapiens </em>
+ - <em> 📚 Sapiens (Audiobook) </em>
 
