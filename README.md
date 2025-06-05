@@ -14,6 +14,7 @@
 >
 
 > ### ✅COMPLETED
+>   - Vibe Coding [Link](https://www.youtube.com/watch?v=OSHJFuoJJdA)
 >   - An Introduction to the World of 3D on The Web [Link](https://waelyasmina.net/articles/an-introduction-to-the-world-of-3d-on-the-web/)
 >   - React Three Fiber [Link](https://waelyasmina.net/articles/react-three-fiber-for-beginners/)
 >   - Replit 100 days of Python : (Couldn't continue, they were asking money after day 24) [Link](https://replit.com/learn/100-days-of-python/)
